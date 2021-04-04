@@ -1,3 +1,7 @@
-# Practice-AE-and-Clustering
-AutoEncoder by Chainer and Clustering by sklearn
-details: http://person.hatenablog.jp/entry/2018/04/06/220434#3
+# オートエンコーダー(AE)とクラスタリングの実装
+1. データセット作成
+2. AEで2次元ベクトルに次元圧縮
+3. クラスタリング
+4. 精度評価
+# 詳細
+[オートエンコーダー\(AE\)とクラスタリングの実装 \- 和田 隆道 \(Takamichi Wada\)の日記](https://person.hatenablog.jp/entry/2018/04/06/220434#3)
